@@ -17,4 +17,4 @@ class script(object):
     
 1. Send me any Telegram File.
 2. Choose appropriate option.
-
+This bot Developer @Faisal_MS
