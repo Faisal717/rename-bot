@@ -16,5 +16,4 @@ class script(object):
     HELP_USER = """It's not that complicated😅
     
 1. Send me any Telegram File.
-2. Choose appropriate option.
-This bot Developer @Faisal_MS
+2. Choose Rename Option And Give Your New File Name
